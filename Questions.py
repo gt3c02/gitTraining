@@ -40,23 +40,23 @@ There is a lot more functionality that Git can offer, however this is what you w
 print("Git command questions")
 
 print("Question: What command would you use to clone a repository? \b")
-print("Answer")
+print("git clone")
 print("")
 
 print("Question: What command would you use to create a new branch called? \b")
-print("Answer")
+print("git checkout")
 print("")
 
 print("Question: What command would you use to add your local changes? \b")
-print("Answer")
+print("git add")
 print("")
 
 print("Question: What command would you use to commit these changes with a commit message of changes for demo \b")
-print("Answer")
+print("git commit")
 print("")
 
 print("Question: What command would you use to push these changes from your local to the remote online \b")
-print("Answer")
+print("git push")
 print("")
 
 print("Question: if you messed up, how would you reset your local version to the previous commit? \b")
